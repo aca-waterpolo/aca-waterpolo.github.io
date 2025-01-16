@@ -1,0 +1,327 @@
+[
+    {
+      "id": 1,
+      "name": "Zwemopwarming",
+      "instructions": "Zwem 200 meter vrij met een rustig tempo.",
+      "description": "Een eenvoudige zwemopwarming om spieren los te maken en de hartslag geleidelijk te verhogen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 2,
+      "name": "Rondjes passen",
+      "instructions": "Vorm een cirkel met het team en pas de bal naar elkaar terwijl je blijft bewegen.",
+      "description": "Helpt bij het verbeteren van passing en balcontrole terwijl de spelers in beweging blijven.",
+      "section": "main",
+      "categories": ["passen"],
+      "duration": 15
+    },
+    {
+      "id": 3,
+      "name": "Man meer simulatie",
+      "instructions": "Simuleer een situatie met een overtalsituatie. Werk aan positionering en snelle passes.",
+      "description": "Oefent tactieken voor overtalsituaties en hoe je het meeste uit een man-meer situatie haalt.",
+      "section": "main",
+      "categories": ["man meer", "aanval"],
+      "duration": 20
+    },
+    {
+      "id": 4,
+      "name": "Verdedigingsrotaties",
+      "instructions": "Oefen snelle verdedigingsrotaties met het team om de gaten in de verdediging te verkleinen.",
+      "description": "Focus op samenwerking en snelheid bij het verschuiven van de verdediging.",
+      "section": "main",
+      "categories": ["verdediging", "aanval"],
+      "duration": 15
+    },
+    {
+      "id": 5,
+      "name": "Counter-zwemmen",
+      "instructions": "Start vanuit een verdedigende positie en zwem in volle snelheid naar de aanvalslijn.",
+      "description": "Oefent snelle overgang van verdediging naar aanval en conditie.",
+      "section": "main",
+      "categories": ["counter"],
+      "duration": 10
+    },
+    {
+      "id": 6,
+      "name": "Schotpositie oefenen",
+      "instructions": "Oefen het innemen van de juiste schotpositie met ondersteuning van medespelers.",
+      "description": "Helpt bij het verbeteren van positionering en schiettechniek.",
+      "section": "main",
+      "categories": ["positie", "aanval"],
+      "duration": 15
+    },
+    {
+      "id": 7,
+      "name": "Zwem-intervallen",
+      "instructions": "Zwem 4x50 meter op 80% snelheid, met 30 seconden rust tussen elk interval.",
+      "description": "Een intensieve opwarming om snelheid en uithoudingsvermogen te bevorderen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 8,
+      "name": "Balcontrole-drills",
+      "instructions": "Dribbel de bal met je hoofd omhoog over 25 meter en keer terug.",
+      "description": "Oefent balcontrole en zicht op het spelveld.",
+      "section": "main",
+      "categories": ["passen"],
+      "duration": 10
+    },
+    {
+      "id": 9,
+      "name": "Snelle schoten",
+      "instructions": "Schiet de bal zo snel mogelijk na een pass. Wissel van positie na elk schot.",
+      "description": "Stimuleert reactietijd en schotprecisie.",
+      "section": "main",
+      "categories": ["aanval"],
+      "duration": 15
+    },
+    {
+      "id": 10,
+      "name": "Zoneverdediging oefenen",
+      "instructions": "Werk in een zoneverdediging en oefen het bewegen als een team om gaten te dichten.",
+      "description": "Verbetert teamcoördinatie en verdediging in zones.",
+      "section": "main",
+      "categories": ["verdediging"],
+      "duration": 20
+    },
+    {
+      "id": 11,
+      "name": "Zijstart techniek",
+      "instructions": "Oefen de zijstart door snel weg te zwemmen na een fluitsignaal.",
+      "description": "Verbetert startsnelheid en techniek voor counters.",
+      "section": "main",
+      "categories": ["counter"],
+      "duration": 10
+    },
+    {
+      "id": 12,
+      "name": "Fout simulatie",
+      "instructions": "Creëer spelsituaties waarin spelers bewust fouten moeten forceren.",
+      "description": "Bevordert inzicht in tactisch gebruik van fouten.",
+      "section": "main",
+      "categories": ["fout vragen"],
+      "duration": 15
+    },
+    {
+      "id": 13,
+      "name": "Passing onder druk",
+      "instructions": "Vorm kleine groepen en oefen snelle passes terwijl een verdediger druk uitoefent.",
+      "description": "Verbetert passing onder druk en spelinzicht.",
+      "section": "main",
+      "categories": ["passen", "verdediging"],
+      "duration": 15
+    },
+    {
+      "id": 14,
+      "name": "Cirkelzwemmen",
+      "instructions": "Zwem in een cirkel rond het doel, wissel tussen borstcrawl en rugslag.",
+      "description": "Een veelzijdige opwarming voor conditie en balgevoel.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 15,
+      "name": "Dynamische 2-tegen-2",
+      "instructions": "Spelers vormen paren en spelen korte 2-tegen-2 wedstrijden in een kleiner veld.",
+      "description": "Stimuleert spelinzicht en samenspel in een compacte ruimte.",
+      "section": "main",
+      "categories": ["aanval", "verdediging"],
+      "duration": 20
+    },
+    {
+      "id": 16,
+      "name": "Doelgericht zwemmen",
+      "instructions": "Zwem 50 meter in een rechte lijn en keer direct terug met een bal.",
+      "description": "Verbetert richtingscontrole en balbeheersing tijdens het zwemmen.",
+      "section": "main",
+      "categories": ["counter", "passen"],
+      "duration": 10
+    },
+    {
+      "id": 17,
+      "name": "Schotondersteuning",
+      "instructions": "Oefen schoten waarbij een medespeler de bal direct aangeeft.",
+      "description": "Versterkt samenwerking en timing bij het aanvallen.",
+      "section": "main",
+      "categories": ["aanval"],
+      "duration": 15
+    },
+    {
+      "id": 18,
+      "name": "1-tegen-1 verdediging",
+      "instructions": "Spelers oefenen individuele verdedigingstechnieken tegen een aanvaller.",
+      "description": "Verhoogt de effectiviteit van individuele verdedigingsacties.",
+      "section": "main",
+      "categories": ["verdediging"],
+      "duration": 10
+    },
+    {
+      "id": 19,
+      "name": "Lange passes",
+      "instructions": "Werk in paren en oefen het geven en ontvangen van lange passes.",
+      "description": "Verbetert passing over langere afstanden en communicatie.",
+      "section": "main",
+      "categories": ["passen"],
+      "duration": 15
+    },
+    {
+      "id": 20,
+      "name": "Counterloop oefening",
+      "instructions": "Simuleer een snelle tegenaanval waarbij spelers snel naar het doelgebied zwemmen.",
+      "description": "Verbetert snelheid en spelovergangen.",
+      "section": "main",
+      "categories": ["counter", "positie"],
+      "duration": 15
+    },
+    {
+      "id": 21,
+      "name": "Zwemwendingen",
+      "instructions": "Oefen snelle wendingen bij de lijn met focus op efficiëntie.",
+      "description": "Helpt bij het minimaliseren van tijdverlies bij wendingen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 22,
+      "name": "Kort spel 3-tegen-3",
+      "instructions": "Speel een korte wedstrijd in een kleiner veld, 3-tegen-3.",
+      "description": "Bevordert snel spel en teamcoördinatie.",
+      "section": "main",
+      "categories": ["aanval", "verdediging"],
+      "duration": 15
+    },
+    {
+      "id": 23,
+      "name": "Man-meer rotaties",
+      "instructions": "Oefen met een roterend systeem bij een man-meer situatie.",
+      "description": "Stimuleert beweging en overzicht bij overtalspellen.",
+      "section": "main",
+      "categories": ["man meer"],
+      "duration": 20
+    },
+    {
+      "id": 24,
+      "name": "Keepersreacties",
+      "instructions": "Keeper oefent snelle reacties op onverwachte schoten.",
+      "description": "Verhoogt reflexen en concentratie van de keeper.",
+      "section": "main",
+      "categories": ["verdediging"],
+      "duration": 15
+    },
+    {
+      "id": 25,
+      "name": "Driehoekpassing",
+      "instructions": "Werk in een driehoeksvorm en oefen snelle, precieze passes.",
+      "description": "Verbetert passing, positionering en samenspel.",
+      "section": "main",
+      "categories": ["passen"],
+      "duration": 10
+    },
+    {
+      "id": 26,
+      "name": "Spelhervatting strategie",
+      "instructions": "Simuleer spelhervattingen en werk aan tactieken.",
+      "description": "Verbetert teamreacties en spelstrategie.",
+      "section": "main",
+      "categories": ["positie", "aanval", "verdediging"],
+      "duration": 15
+    },
+    {
+      "id": 27,
+      "name": "Zwem-pyramide",
+      "instructions": "Zwem 50 meter, 100 meter, 150 meter, en daarna terug naar 50 meter, met 15 seconden rust tussen afstanden.",
+      "description": "Verhoogt de hartslag geleidelijk en bereidt het lichaam voor op intensievere oefeningen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 28,
+      "name": "Bal overbrengen",
+      "instructions": "Zwem 25 meter met de bal op je hoofd en keer terug zonder de bal.",
+      "description": "Oefent balcontrole tijdens zwemmen en verbetert watergevoel.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 8
+    },
+    {
+      "id": 29,
+      "name": "Rugslag-drills",
+      "instructions": "Zwem 100 meter rugslag met focus op rustige, gecontroleerde bewegingen.",
+      "description": "Helpt bij het opwarmen van schouders en bovenrugspieren.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 30,
+      "name": "Drijfboei-peddelen",
+      "instructions": "Gebruik een drijfboei tussen je benen en peddel 50 meter met alleen je armen.",
+      "description": "Richt zich op het activeren van bovenlichaamspieren en verbetert techniek.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 7
+    },
+    {
+      "id": 31,
+      "name": "Sprint en rust",
+      "instructions": "Zwem 25 meter op 100% snelheid, rust 30 seconden en herhaal 4 keer.",
+      "description": "Combineert cardiovasculaire opwarming met korte rustmomenten.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 32,
+      "name": "Watertrap variatie",
+      "instructions": "Trap 1 minuut water met handen boven water, gevolgd door 1 minuut normale watertrap.",
+      "description": "Bereidt benen en core voor op langdurige inspanning in het water.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 6
+    },
+    {
+      "id": 33,
+      "name": "Zijlig zwemmen",
+      "instructions": "Zwem 50 meter op je zij, wissel na 25 meter van kant.",
+      "description": "Verbetert balans en traint asymmetrische spiergroepen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 8
+    },
+    {
+      "id": 34,
+      "name": "Ademhalingsritme",
+      "instructions": "Zwem 100 meter en adem na elke 3, 5 of 7 slagen, afwisselend per lengte.",
+      "description": "Oefent ademhalingscontrole en focus tijdens het zwemmen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 10
+    },
+    {
+      "id": 35,
+      "name": "Hoogte-inslag zwemmen",
+      "instructions": "Zwem 50 meter met extra focus op het hoog inslaan van je armen bij de borstcrawl.",
+      "description": "Verbetert zwemtechniek en bereidt schouders voor op intensieve bewegingen.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 8
+    },
+    {
+      "id": 36,
+      "name": "Achterwaarts zwemmen",
+      "instructions": "Zwem 25 meter achterwaarts en keer terug met een rustige borstcrawl.",
+      "description": "Activeert minder gebruikte spieren en helpt bij coördinatie.",
+      "section": "warmup",
+      "categories": [],
+      "duration": 7
+    }
+  ]
+  

@@ -1,0 +1,39 @@
+form {
+    color: black;
+    border: 1px solid #c9639e;
+    padding: 2rem;
+    position: relative;
+    display: flex;
+}
+
+form ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.generator {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 250px auto;
+    grid-template-areas: "filter   pool"
+                         "training pool";
+
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.pool {
+    grid-area: pool;
+    border: 1px solid #c9639e;
+    padding: 2rem;
+    position: relative;
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}

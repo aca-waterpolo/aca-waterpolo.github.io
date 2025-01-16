@@ -1,0 +1,24 @@
+
+
+.training {
+    border: 1px solid #c9639e;
+    padding: .5rem;
+    position: relative;
+}
+
+.training .section {
+    border: 1px solid #c9639e;
+    padding: 2rem;
+    position: relative;
+    margin: 2rem;
+}
+
+.sectiontitle {
+    border: 1px solid #c9639e;
+    background-color: var(--color-contrast);
+    color: var(--color-complement);
+    position: absolute;
+    top: -1rem;
+    font-size: 1.5rem;
+    padding: .25rem;
+}

@@ -1,0 +1,36 @@
+:root {
+  --color-dominant: #fca7d8;
+  --color-complement: #c9639e;
+  --color-contrast: #e8faff;
+  --color-accent: #2d53a3;
+
+  --elevation: 1.0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.6;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-contrast);
+  color: var(--color-contrast);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  line-height: .9;
+}
+
+img,
+iframe {
+  max-width: 100%;
+}
