@@ -1,0 +1,19 @@
+name: React app deployment
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - run: cd training/ && npm i && npm run build
+    - run: |
+        git config --global user.name "GH Actions"
+        git config --global user.email "username@users.noreply.github.com"
+        git add -f docs/ && git commit -m "build"
+        git push
